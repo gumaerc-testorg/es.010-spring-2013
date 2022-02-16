@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-010-chemistry-of-sports-spring-2013/209917d3e03981a27c816f82afce96e3_MITES_010S13_lec1.pdf
+file: /media/courses/es-010-chemistry-of-sports-spring-2013/209917d3e03981a27c816f82afce96e3_MITES_010S13_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Understanding how exercise affects your body chemistry slides
 uid: 209917d3-e039-81a2-7c81-6f82afce96e3

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-010-chemistry-of-sports-spring-2013/359e8791459643970a1c4bdbd563f465_MITES_010S13_lec6.pdf
+file: /media/courses/es-010-chemistry-of-sports-spring-2013/359e8791459643970a1c4bdbd563f465_MITES_010S13_lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Physics of cycling slides
 uid: 359e8791-4596-4397-0a1c-4bdbd563f465

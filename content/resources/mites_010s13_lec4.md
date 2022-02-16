@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-010-chemistry-of-sports-spring-2013/2c5be273b50b3aedca032010e148c307_MITES_010S13_lec4.pdf
+file: /media/courses/es-010-chemistry-of-sports-spring-2013/2c5be273b50b3aedca032010e148c307_MITES_010S13_lec4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Nutrition slides
 uid: 2c5be273-b50b-3aed-ca03-2010e148c307
