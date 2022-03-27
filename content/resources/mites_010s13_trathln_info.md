@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9ae9005a-81dd-cb46-75f0-aec066b6e212
 resourcetype: Document
 title: Triathlon information
 uid: bcb75b03-7b80-c137-647d-53abb90ccb11

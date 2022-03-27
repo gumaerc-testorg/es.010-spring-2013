@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f0b704-09ec-e2d7-7654-ad724bcab972
 resourcetype: Document
 title: Chemistry of clothing slides
 uid: 9999caf1-3698-7ae8-9650-b32c159615bb

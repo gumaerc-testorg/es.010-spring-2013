@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f0b704-09ec-e2d7-7654-ad724bcab972
 resourcetype: Document
 title: Biochemistry, injury prevention, and workouts slides
 uid: 1ead5c57-272e-816f-fb87-f7be39d2eb83

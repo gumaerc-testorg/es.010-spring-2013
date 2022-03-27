@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9ae9005a-81dd-cb46-75f0-aec066b6e212
 resourcetype: Document
 title: Spring 2013 PE workout schedule
 uid: d1f5eb44-b501-ff9b-716a-259dc56d7a96

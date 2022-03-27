@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f0b704-09ec-e2d7-7654-ad724bcab972
 resourcetype: Document
 title: Nutrition slides
 uid: 2c5be273-b50b-3aed-ca03-2010e148c307

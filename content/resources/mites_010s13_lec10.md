@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f0b704-09ec-e2d7-7654-ad724bcab972
 resourcetype: Document
 title: Cycling Aerodynamics
 uid: bcf45a07-9fed-1153-1fb8-a9bc0888a1ec

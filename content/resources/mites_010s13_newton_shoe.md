@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: a65f4e71-f228-3cf4-47d8-1b6eae7a3d52
 resourcetype: Document
 title: Newton Running Shoe Study details
 uid: 19629996-dd52-5939-3c51-ca009759db26

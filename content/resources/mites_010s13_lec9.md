@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f0b704-09ec-e2d7-7654-ad724bcab972
 resourcetype: Document
 title: Illegal manipulation of your body
 uid: ea33bfa9-9a91-bf43-7ae5-bbe86c5c298a

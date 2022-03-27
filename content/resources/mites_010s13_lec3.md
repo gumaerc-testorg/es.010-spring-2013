@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f0b704-09ec-e2d7-7654-ad724bcab972
 resourcetype: Document
 title: Training, repair, and maintenance of the body slides
 uid: 8b69d7a0-0c97-3e0f-4817-c84f82e5b94e
