@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  fitness tests, the training schedule, training journals, and a mini-triathlon.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ The pre-course test will establish your baseline fitness level. See how your tra
 Training Schedule
 -----------------
 
-[Spring 2013 PE workout schedule (PDF)]({{< baseurl >}}/resources/mites_010s13_workout_sche)
+{{% resource_link d1f5eb44-b501-ff9b-716a-259dc56d7a96 "Spring 2013 PE workout schedule (PDF)" %}}
 
 Training Journals
 -----------------
@@ -52,4 +54,4 @@ Triathlon
 
 Students were required to participate in a mini-triathlon during the second to last week of the course.
 
-[Triathlon Information (PDF)]({{< baseurl >}}/resources/mites_010s13_trathln_info)
+{{% resource_link bcb75b03-7b80-c137-647d-53abb90ccb11 "Triathlon Information (PDF)" %}}

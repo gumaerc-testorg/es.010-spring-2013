@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  the Experimental Study Group (ESG), grading, the classroom and laboratory components
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

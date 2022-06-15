@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on a study of running performance effects
+  of a shoe design, and a video of a clinic on running technique.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -13,7 +15,7 @@ Newton Running Shoe Study
 
 Students chose to participate in a running shoe study sponsored by Newton Running. The goal of the study was to evaluate the running performance effects of the Newton shoe design. There were scheduled 3 running workouts a week. Upon completion of the study, the students kept their Newton running shoes earned 2 PE points.
 
-[Newton Running Shoe Study details (PDF)]({{< baseurl >}}/resources/mites_010s13_newton_shoe)
+{{% resource_link 19629996-dd52-5939-3c51-ca009759db26 "Newton Running Shoe Study details (PDF)" %}}
 
 Video of a Running Clinic
 -------------------------

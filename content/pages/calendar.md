@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly seminar topics and workout
+  sessions for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding workout schedule.
-file: /media/courses/es-010-chemistry-of-sports-spring-2013/d1f5eb44b501ff9b716a259dc56d7a96_MITES_010S13_workout_sche.pdf
+file: /courses/es-010-chemistry-of-sports-spring-2013/d1f5eb44b501ff9b716a259dc56d7a96_MITES_010S13_workout_sche.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Spring 2013 PE workout schedule
 uid: d1f5eb44-b501-ff9b-716a-259dc56d7a96
 ---
+This resource file contains information regarding workout schedule.
+
