@@ -5,6 +5,7 @@ file: /courses/es-010-chemistry-of-sports-spring-2013/bcb75b037b80c137647d53abb9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Triathlon information
 uid: bcb75b03-7b80-c137-647d-53abb90ccb11
 ---
 This resource file contains information regarding triathlon information.
-

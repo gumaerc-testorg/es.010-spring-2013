@@ -5,6 +5,7 @@ file: /courses/es-010-chemistry-of-sports-spring-2013/ea33bfa99a91bf437ae5bbe86c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
