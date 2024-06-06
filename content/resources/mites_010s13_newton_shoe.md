@@ -3,6 +3,7 @@ content_type: resource
 description: This resource file contains information regarding newton running shoe
   study details.
 file: /courses/es-010-chemistry-of-sports-spring-2013/19629996dd5259393c51ca009759db26_MITES_010S13_newton_shoe.pdf
+file_size: 554588
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
