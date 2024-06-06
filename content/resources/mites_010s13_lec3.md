@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-010-chemistry-of-sports-spring-2013/8b69d7a00c973e0f4817c84f82e5b94e_MITES_010S13_lec3.pdf
+file_size: 803370
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
