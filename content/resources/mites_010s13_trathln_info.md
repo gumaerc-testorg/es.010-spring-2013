@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding triathlon information.
-file: /ol-ocw-studio-app/courses/es-010-chemistry-of-sports-spring-2013/bcb75b037b80c137647d53abb90ccb11_MITES_010S13_trathln_info.pdf
+file: /courses/es-010-chemistry-of-sports-spring-2013/bcb75b037b80c137647d53abb90ccb11_MITES_010S13_trathln_info.pdf
 file_size: 845254
 file_type: application/pdf
 learning_resource_types:
