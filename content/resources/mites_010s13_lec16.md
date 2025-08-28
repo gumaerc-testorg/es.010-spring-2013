@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-010-chemistry-of-sports-spring-2013/5d6841f998fd927adcbbcb1cf38d1c46_MITES_010S13_lec16.pdf
+file: /ol-ocw-studio-app/courses/es-010-chemistry-of-sports-spring-2013/5d6841f998fd927adcbbcb1cf38d1c46_MITES_010S13_lec16.pdf
 file_size: 931267
 file_type: application/pdf
 learning_resource_types:
