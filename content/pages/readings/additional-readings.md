@@ -14,62 +14,62 @@ uid: 93d84ee7-cc29-10de-524b-a268eeaaeb2c
 ---
 ## Epigenetics
 
-Nova. "[Epigenetics](http://www.pbs.org/wgbh/nova/body/epigenetics.html)." July 24, 2007.
+Nova. "{{% resource_link "127a4d23-7cb7-46c1-b1c6-87c8876c6da7" "Epigenetics" %}}." July 24, 2007.
 
-Cloud, John. "[Why Your DNA Isn't Your Destiny](http://content.time.com/time/magazine/article/0,9171,1952313,00.html)." *Time,* January 6, 2010.
+Cloud, John. "{{% resource_link "622c7437-165e-42a7-bfe3-c79f26400eaa" "Why Your DNA Isn't Your Destiny" %}}." *Time,* January 6, 2010.
 
 Hersh, Aaron. "Natural Born Athlete." *Triathlete,* March 2011.
 
 Fitzgerald, Matt. "Will Genetic Doping Be the End of Sports?" *Triathlete*, April 2009.
 
-Koubova, Jana, and Leonard Guarente. "[How Does Calorie Restriction Work?"](http://dx.doi.org/10.1101/gad.1052903) *Genes & Development* 17 (2003): 313–21.
+Koubova, Jana, and Leonard Guarente. "{{% resource_link "604e04e0-2367-493f-bb79-55b32e000cb4" "How Does Calorie Restriction Work?\"" %}} *Genes & Development* 17 (2003): 313–21.
 
-Colman, Ricki J., et. al. "[Caloric Restriction Delays Disease Onset and Mortality in Rhesus Monkeys](http://dx.doi.org/10.1126/science.1173635)." *Science* 325, no. 5937 (2009): 201–4.
+Colman, Ricki J., et. al. "{{% resource_link "d04f08ca-5092-46f4-adba-a0ec06daa5fc" "Caloric Restriction Delays Disease Onset and Mortality in Rhesus Monkeys" %}}." *Science* 325, no. 5937 (2009): 201–4.
 
-Huffman, Derek M., et. al. "[Effect of Exercise and Calorie Restriction on Biomarkers of Aging in Mice](http://dx.doi.org/10.1152/ajpregu.00890.2007)." *American Journal of Physiology* 294, (2008): R1618–27.
+Huffman, Derek M., et. al. "{{% resource_link "f287141d-a314-4afb-8e6d-fa8e7d31f3f4" "Effect of Exercise and Calorie Restriction on Biomarkers of Aging in Mice" %}}." *American Journal of Physiology* 294, (2008): R1618–27.
 
-Dubé, J. J., et al. "[Exercise-induced Alterations in Intramyocellular Lipids and Insulin Resistance: The Athlete's Paradox Revisited](http://dx.doi.org/10.1152/ajpendo.00769.2007)." *American Journal of Physiology Endocrinology and Metabolism* 294 (2008): E882–8.
+Dubé, J. J., et al. "{{% resource_link "3fa5c89c-b24b-473b-acfb-702f08c26f5c" "Exercise-induced Alterations in Intramyocellular Lipids and Insulin Resistance: The Athlete's Paradox Revisited" %}}." *American Journal of Physiology Endocrinology and Metabolism* 294 (2008): E882–8.
 
 ## Triathlon Tapering
 
-Mujika, Inigo, Sabino Padilla, et al. "[Physiological Changes Associated with Pre-event Taper in Athletes](http://dx.doi.org/10.2165/00007256-200434130-00003)." *Sports Medicine* 34, no. 13 (2004): 891–927.
+Mujika, Inigo, Sabino Padilla, et al. "{{% resource_link "544aa153-fde3-4ba3-b989-d4a5756db52d" "Physiological Changes Associated with Pre-event Taper in Athletes" %}}." *Sports Medicine* 34, no. 13 (2004): 891–927.
 
-Hooper, Sue L., Laurel Traeger Mackinnon, et al. "[Effects of Three Tapering Techniques on the Performance Forces and Psychometric Measure of Competitive Swimmers](http://dx.doi.org/10.1007/s004210050417)." *European Journal of Applied Physiology and Occupational Physiology* 78, no. 3 (1998): 258–63.
+Hooper, Sue L., Laurel Traeger Mackinnon, et al. "{{% resource_link "1efda671-2694-4922-9faa-7d764d1a2b60" "Effects of Three Tapering Techniques on the Performance Forces and Psychometric Measure of Competitive Swimmers" %}}." *European Journal of Applied Physiology and Occupational Physiology* 78, no. 3 (1998): 258–63.
 
-Hue, O., S. Antoine-Jonville, et al. "[The Effect of 8 Days of Training in Tropical Environment on Performance in Neutral Climate in Swimmers](http://www.ncbi.nlm.nih.gov/pubmed/16761217)." *International Journal of Sports Medicine* 28, no. 1 (2007): 48–52.
+Hue, O., S. Antoine-Jonville, et al. "{{% resource_link "0aa55f87-eaf2-4b1b-959e-6765f5a28fbf" "The Effect of 8 Days of Training in Tropical Environment on Performance in Neutral Climate in Swimmers" %}}." *International Journal of Sports Medicine* 28, no. 1 (2007): 48–52.
 
-Morton, R. Hugh, John R. Fitz-Clarke, et al. "[Modeling Human Performance in Running](http://www.ncbi.nlm.nih.gov/pubmed/2246166)." *Journal of Applied Physiology* 69, no. 3 (1990): 1171–7. (This is an interesting article that develops a mathematical model of a runner.)
+Morton, R. Hugh, John R. Fitz-Clarke, et al. "{{% resource_link "5e6f4cb0-186f-4933-b50a-72d48e9611ea" "Modeling Human Performance in Running" %}}." *Journal of Applied Physiology* 69, no. 3 (1990): 1171–7. (This is an interesting article that develops a mathematical model of a runner.)
 
 ## Triathlon Preparation
 
-Jeukendrup, A., R. Jentjens, et al. "[Nutritional Considerations in Triathlon](http://dx.doi.org/10.2165/00007256-200535020-00005)." *Sports Medicine* 35, no. 2 (2005): 163–81.
+Jeukendrup, A., R. Jentjens, et al. "{{% resource_link "4b1830b3-93b5-4a11-a761-d401d9ab74dd" "Nutritional Considerations in Triathlon" %}}." *Sports Medicine* 35, no. 2 (2005): 163–81.
 
-Van Schuylenbergh, R., B. Vanden Eynde, et al. "[Prediction of Sprint Triathlon Performance from Laboratory Tests](http://dx.doi.org/10.1007/s00421-003-0911-6)." *European Journal of Applied Physiology* 91, no. 1 (2004): 94–9.
+Van Schuylenbergh, R., B. Vanden Eynde, et al. "{{% resource_link "0bcd264c-49e7-4c15-abc0-6e72e878e3be" "Prediction of Sprint Triathlon Performance from Laboratory Tests" %}}." *European Journal of Applied Physiology* 91, no. 1 (2004): 94–9.
 
-Peeling, P. D., D. J. Bishop, et al. "[Effect of Swimming Intensity on Subsequent Cycling and Overall Triathlon Performance](http://dx.doi.org/10.1136/bjsm.2005.020370)." *British Journal of Sports Medicine* 39, no. 12 (2005): 960–4.
+Peeling, P. D., D. J. Bishop, et al. "{{% resource_link "ea78b05b-1708-4df5-8d9f-4ff0136aa931" "Effect of Swimming Intensity on Subsequent Cycling and Overall Triathlon Performance" %}}." *British Journal of Sports Medicine* 39, no. 12 (2005): 960–4.
 
-Millet, G. P., and V. E. Vleck. "[Physiological and Biomedical Adaptations to the New Cycle to Run Transition in Olympic Triathlon: Review and Practical Recommendations for Training](http://dx.doi.org/10.1136/bjsm.34.5.384)." *British Journal of Sports Medicine* 34, no. 5 (2000): 384–90.
+Millet, G. P., and V. E. Vleck. "{{% resource_link "ee4c778d-e9ec-40d9-a673-179e154c7f64" "Physiological and Biomedical Adaptations to the New Cycle to Run Transition in Olympic Triathlon: Review and Practical Recommendations for Training" %}}." *British Journal of Sports Medicine* 34, no. 5 (2000): 384–90.
 
 ## Energy Metabolism
 
 Fitzgerald, Matt. "Lactic Acid Myths Debunked." *Triathlete,* Februrary 2009, 94–6.
 
-Bacon, L., and M. Kern. "[Evaluating a Test Protocol for Predicting Maximum Lactate Steady State](http://www.ncbi.nlm.nih.gov/pubmed/10726430)." *The Journal of Sports Medicine and Physical Fitness* 39, no. 4 (1999): 300–8.
+Bacon, L., and M. Kern. "{{% resource_link "58a8ba97-57b7-4c12-b413-eff53804c2fb" "Evaluating a Test Protocol for Predicting Maximum Lactate Steady State" %}}." *The Journal of Sports Medicine and Physical Fitness* 39, no. 4 (1999): 300–8.
 
-Vobejda, C., K. Fromme, et al. "[Maximal Constant Heart Rate—A Heart Rate Based Method to Estimate Maximal Lactate Steady State in Running](http://www.ncbi.nlm.nih.gov/pubmed/16729378)." *International Journal of Sports Medicine* 27, no. 5 (2006): 368–72.
+Vobejda, C., K. Fromme, et al. "{{% resource_link "067599fb-e3d7-443d-8587-e7bba68909ef" "Maximal Constant Heart Rate—A Heart Rate Based Method to Estimate Maximal Lactate Steady State in Running" %}}." *International Journal of Sports Medicine* 27, no. 5 (2006): 368–72.
 
-Gladden, M. B. "[Lactate Metabolism: A New Paradigm for the Third Millennium](http://dx.doi.org/10.1113/jphysiol.2003.058701)." *Journal of Physiology* 558, no. 1 (2004): 5–30. \[Just read the first 8 pages.\]
+Gladden, M. B. "{{% resource_link "40c7cf1e-5a12-4729-bf96-f6b1e02abda8" "Lactate Metabolism: A New Paradigm for the Third Millennium" %}}." *Journal of Physiology* 558, no. 1 (2004): 5–30. \[Just read the first 8 pages.\]
 
-Pendergast, D., et al. "[Energy Balance of Human Locomotion in Water](http://dx.doi.org/10.1007/s00421-003-0919-y)." *European Journal of Applied Physiology* 90, no. 3–4 (2003): 377–86.
+Pendergast, D., et al. "{{% resource_link "2fe41bd9-840b-4c37-affa-97e8224c2700" "Energy Balance of Human Locomotion in Water" %}}." *European Journal of Applied Physiology* 90, no. 3–4 (2003): 377–86.
 
-Alexander, R. M. "[Models and the Scaling of Energy Costs for Locomotion](http://dx.doi.org/10.1242/jeb.01484)." *Journal of Experimental Biology* 208 (2005): 1645–52.
+Alexander, R. M. "{{% resource_link "681e410e-b99f-4c3a-8bfe-6da9cb510348" "Models and the Scaling of Energy Costs for Locomotion" %}}." *Journal of Experimental Biology* 208 (2005): 1645–52.
 
-Brooks, G. A. "[Lactate Shuttles in Nature](http://www.ncbi.nlm.nih.gov/pubmed/12023861)." *Biochemical Society Transactions* 30, no. 2 (2002): 258–64.
+Brooks, G. A. "{{% resource_link "3fcbe9ab-6b95-4540-962e-49902180d5e2" "Lactate Shuttles in Nature" %}}." *Biochemical Society Transactions* 30, no. 2 (2002): 258–64.
 
-Bergman, B. C., et al. "[Active Muscle and Whole Body Lactate Kinetics after Endurance Training in Men](https://journals.physiology.org/doi/full/10.1152/jappl.1999.87.5.1684)." *Journal of Applied Physiology* 87, no. 5 (1999): 1684–96.
+Bergman, B. C., et al. "{{% resource_link "48f8de15-2d1e-490b-a7cf-6ee6e0b2bb84" "Active Muscle and Whole Body Lactate Kinetics after Endurance Training in Men" %}}." *Journal of Applied Physiology* 87, no. 5 (1999): 1684–96.
 
-Dubouchaud, H., et al. "[Endurance Training, Expression, and Physiology of LDH, MCT1, and MCT4 in Human Skeletal Muscle](http://www.ncbi.nlm.nih.gov/pubmed/10751188)." *American Journal of Physiology Endocrinology and Metabolism* 278, no. 4 (2000): E571–9.
+Dubouchaud, H., et al. "{{% resource_link "a40df530-ced1-48dd-8fb5-7714347a3e1e" "Endurance Training, Expression, and Physiology of LDH, MCT1, and MCT4 in Human Skeletal Muscle" %}}." *American Journal of Physiology Endocrinology and Metabolism* 278, no. 4 (2000): E571–9.
 
 ## Marathon Physiology
 
-Almond, C. S. D., et al. "[Hyponatremia among Runners in the Boston Marathon](http://dx.doi.org/10.1056/NEJMoa043901)." *New England Journal of Medicine* 352 (2005): 1550–6.
+Almond, C. S. D., et al. "{{% resource_link "1bf665dd-a379-42ef-834c-c596e6266f26" "Hyponatremia among Runners in the Boston Marathon" %}}." *New England Journal of Medicine* 352 (2005): 1550–6.

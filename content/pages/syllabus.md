@@ -24,7 +24,7 @@ None.
 Experimental Study Group (ESG)
 ------------------------------
 
-The [Experimental Study Group](http://esg.mit.edu/) sponsors 5–10 six unit pass / fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum. These seminars are open to all MIT students, as well as, ESG students and are intended to be hands-on and experiential in nature.
+The {{% resource_link "cb7f33b1-7dd3-4a70-a012-02a4b2186e7c" "Experimental Study Group" %}} sponsors 5–10 six unit pass / fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum. These seminars are open to all MIT students, as well as, ESG students and are intended to be hands-on and experiential in nature.
 
 Grading
 -------

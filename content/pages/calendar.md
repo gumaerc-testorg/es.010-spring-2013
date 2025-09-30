@@ -32,7 +32,7 @@ Talk about the triathlon
 Sign up for the fitness evaluation with a personal trainer.
 
 - Explain the tests that are going to be done
-- Fill out the Health History form. (Similar to this [MIT Health History](http://web.mit.edu/fnl/vol/116/medical.html) form.)
+- Fill out the Health History form. (Similar to this {{% resource_link "1ea67e98-191e-47e3-960e-d49d061d8583" "MIT Health History" %}} form.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -141,7 +141,7 @@ Bike—longer distance sets—go for a run afterwards
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Coach [Jimmy Riccitello](http://www.riccitello.com/about) comes and talks about triathlons
+Coach {{% resource_link "0affce4c-a4f8-422a-be0e-ae6b62d7895c" "Jimmy Riccitello" %}} comes and talks about triathlons
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

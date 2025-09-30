@@ -12,7 +12,7 @@ uid: 9ae9005a-81dd-cb46-75f0-aec066b6e212
 Fitness Testing
 ---------------
 
-One of the goals of the course is to improve your fitness during the term. To help gauge this, we will do pre-course and post-course fitness tests. These tests will be done at the [MIT Zeisiger Center](http://www.mitrecsports.com/) and are called **fitness assessments**.
+One of the goals of the course is to improve your fitness during the term. To help gauge this, we will do pre-course and post-course fitness tests. These tests will be done at the {{% resource_link "c9056bf1-4345-4587-b8fc-583bf90a6075" "MIT Zeisiger Center" %}} and are called **fitness assessments**.
 
 The tests will consist of the following:
 
